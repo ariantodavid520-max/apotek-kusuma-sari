@@ -1,0 +1,17 @@
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: hero-farma-mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: hero_farma
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_USER: hero_user
+      MYSQL_PASSWORD: hero_password
+    ports:
+      - "3306:3306"
+    volumes:
+      - hero_farma_mysql:/var/lib/mysql
+
+volumes:
+  hero_farma_mysql:
