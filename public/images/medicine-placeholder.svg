@@ -1,0 +1,10 @@
+<svg width="500" height="340" viewBox="0 0 500 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="340" rx="34" fill="#F8FBFF"/>
+  <circle cx="160" cy="170" r="86" fill="#E8F3FF"/>
+  <rect x="239" y="72" width="128" height="196" rx="28" fill="#FFFFFF" stroke="#2879FF" stroke-width="10"/>
+  <rect x="260" y="102" width="86" height="42" rx="10" fill="#00B894"/>
+  <rect x="260" y="164" width="86" height="18" rx="9" fill="#D7E7FF"/>
+  <rect x="260" y="196" width="62" height="18" rx="9" fill="#D7E7FF"/>
+  <path d="M126 122H194V156H228V224H194V258H126V224H92V156H126V122Z" fill="#FFFFFF" stroke="#00A8CC" stroke-width="10" stroke-linejoin="round"/>
+  <text x="250" y="310" text-anchor="middle" fill="#1D4ED8" font-family="Arial, sans-serif" font-size="26" font-weight="800">Kusuma Sari</text>
+</svg>
